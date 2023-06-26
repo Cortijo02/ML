@@ -1,0 +1,93 @@
+{'AMD FirePro W4190M ',         November 12th, 2015.
+ 'AMD FirePro W5130M',          October 2nd, 2015.
+ ############# 'AMD R4 Graphics',             June 11th, 2014
+ 'AMD Radeon 520',              April 18, 2017
+ 'AMD Radeon 530',              April 18, 2017
+ 'AMD Radeon 540',              April 18, 2017
+ 'AMD Radeon R2',               January 28th, 2015
+ ############# 'AMD Radeon R2 Graphics',      January 28th, 2015
+ 'AMD Radeon R3',               January 28th, 2015
+ 'AMD Radeon R4',               June 11th, 2014
+ ############# 'AMD Radeon R4 Graphics',      June 11th, 2014
+ 'AMD Radeon R5',               September 17th, 2014
+ 'AMD Radeon R5 430',           June 30th, 2016
+ 'AMD Radeon R5 520',           April 18th, 2017
+ 'AMD Radeon R5 M330',          May 5th, 2015
+ 'AMD Radeon R5 M420',          May 15th, 2016
+ 'AMD Radeon R5 M420X',         May 15th, 2016
+ 'AMD Radeon R5 M430',          May 15th, 2016
+ 'AMD Radeon R7',               Feb 17th, 2014
+ ############ 'AMD Radeon R7 Graphics',      Feb 17th, 2014
+ 'AMD Radeon R7 M440',          May 15th, 2016
+ 'AMD Radeon R7 M445',          May 15th, 2016
+ 'AMD Radeon R7 M460',          May 15th, 2016
+ 'AMD Radeon R7 M465',          May 15th, 2016
+ 'AMD Radeon R9 M385',          May 5th, 2015
+ 'AMD Radeon RX 540',           Nov 11th, 2017
+ 'AMD Radeon RX 550',           Apr 20th, 2017
+ 'AMD Radeon RX 560',           Apr 18th, 2017
+ 'AMD Radeon RX 580',           Apr 18th, 2017
+ 'ARM Mali T860 MP4',           Q4 2015
+ 'Intel Graphics 620',          Aug 30th, 2016
+ 'Intel HD Graphics',           Apr 29th, 2013
+ 'Intel HD Graphics 400',       Apr 1st, 2015
+ 'Intel HD Graphics 405',       Apr 1st, 2015
+ 'Intel HD Graphics 500',       Sep 1st, 2015
+ 'Intel HD Graphics 505',       Sep 1st, 2015
+ 'Intel HD Graphics 510',       Sep 2015
+ 'Intel HD Graphics 515',       Sep 2015
+ 'Intel HD Graphics 520',       Sep 2015
+ 'Intel HD Graphics 5300',      Sep 2014
+ 'Intel HD Graphics 540',       Sep 2015
+ 'Intel HD Graphics 6000',      Sep 2014
+ 'Intel HD Graphics 615',       Aug 2016
+ 'Intel HD Graphics 620',       Aug 2016
+ 'Intel HD Graphics 620 ',      Aug 2016
+ 'Intel HD Graphics 630',       Aug 2016
+ 'Intel Iris Graphics 540',     Sep 2015
+ 'Intel Iris Plus Graphics 640', Jan 2017
+ 'Intel Iris Plus Graphics 650', Jan 2017
+ 'Intel Iris Pro Graphics',      2014-2017
+ 'Intel UHD Graphics 620',      Aug 2018
+ 'Nvidia GeForce 150MX',        May 2017
+ 'Nvidia GeForce 920M',         Mar 2015
+ 'Nvidia GeForce 920MX',        Mar 2016
+ ############## 'Nvidia GeForce 920MX ',       Mar 2016
+ 'Nvidia GeForce 930M',         Mar 2015
+ 'Nvidia GeForce 930MX',        Mar 2016
+ ############## 'Nvidia GeForce 930MX ',       Mar 2016
+ 'Nvidia GeForce 940M',         Mar 2015
+ 'Nvidia GeForce 940MX',        Mar 2016
+ ############## 'Nvidia GeForce GT 940MX',     Mar 2016
+ 'Nvidia GeForce GTX 1050',     Jan 2016
+ 'Nvidia GeForce GTX 1050 Ti',  Feb 2016
+ 'Nvidia GeForce GTX 1050M',    Jan 2017
+ 'Nvidia GeForce GTX 1050Ti',   Feb 2016
+ 'Nvidia GeForce GTX 1060',     Aug 2016
+ 'Nvidia GeForce GTX 1070',     Aug 2016
+ 'Nvidia GeForce GTX 1070M',    Aug 2016
+ 'Nvidia GeForce GTX 1080',     Aug 2016
+ 'Nvidia GeForce GTX 930MX',    Mar 2016
+ 'Nvidia GeForce GTX 940M',     Mar 2015
+ 'Nvidia GeForce GTX 940MX',    Mar 2016
+ 'Nvidia GeForce GTX 950M',     Mar 2015
+ 'Nvidia GeForce GTX 960',      Jan 2015
+ ############## 'Nvidia GeForce GTX 960<',      Jan 2015
+ 'Nvidia GeForce GTX 960M',     Mar 2015
+ 'Nvidia GeForce GTX 965M',     Jan 2016
+ 'Nvidia GeForce GTX 970M',     Oct 2014
+ 'Nvidia GeForce GTX 980M',     Oct 2014
+ 'Nvidia GeForce GTX1050 Ti',   Oct 2016
+ 'Nvidia GeForce GTX1060',      Aug 2016
+ 'Nvidia GeForce GTX1080',      May 2016
+ 'Nvidia GeForce MX130',        Nov 2017
+ 'Nvidia GeForce MX150',        May 2017
+ 'Nvidia Quadro M1000M',        Aug 2015
+ 'Nvidia Quadro M1200',         Jan 2017
+ 'Nvidia Quadro M2000M',        Dec 2015
+ 'Nvidia Quadro M2200',         Jan 2017
+ 'Nvidia Quadro M2200M',        Apr 2017
+ 'Nvidia Quadro M3000M',        Aug 2015
+ 'Nvidia Quadro M500M',         Apr 2016
+ 'Nvidia Quadro M520M',         Jan 2017
+ 'Nvidia Quadro M620'}          Jan 2017
