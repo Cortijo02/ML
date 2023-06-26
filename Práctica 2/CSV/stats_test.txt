@@ -1,0 +1,426 @@
+  1. "ID"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         20000
+	Smallest value:        5,637
+	Largest value:         155,629
+	Sum:                   1,611,660,986
+	Mean:                  80,583.049
+	Median:                80,309.5
+	StDev:                 43,210.473
+	Most common values:    99,246 (1x)
+	                       90,071 (1x)
+	                       64,375 (1x)
+	                       142,441 (1x)
+	                       135,010 (1x)
+
+  2. "Customer_ID"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         10439
+	Smallest value:        1,006
+	Largest value:         50,999
+	Sum:                   525,014,712
+	Mean:                  26,250.736
+	Median:                26,171
+	StDev:                 14,343.872
+	Most common values:    36,979 (7x)
+	                       31,632 (6x)
+	                       18,584 (6x)
+	                       17,513 (6x)
+	                       15,016 (6x)
+
+  3. "Month"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         8
+	Smallest value:        1
+	Largest value:         8
+	Sum:                   90,022
+	Mean:                  4.501
+	Median:                4
+	StDev:                 2.298
+	Most common values:    7 (2584x)
+	                       3 (2520x)
+	                       1 (2519x)
+	                       2 (2504x)
+	                       8 (2487x)
+
+  4. "Name"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         8729
+	Longest value:         25 characters
+	Most common values:    Greg Roumeliotish (14x)
+	                       Phil Wahbag (14x)
+	                       Andreaj (13x)
+	                       Davidc (12x)
+	                       Jason Langeg (12x)
+
+  5. "Age"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         43
+	Smallest value:        14
+	Largest value:         56
+	Sum:                   666,286
+	Mean:                  33.314
+	Median:                33
+	StDev:                 10.77
+	Most common values:    38 (629x)
+	                       34 (614x)
+	                       22 (609x)
+	                       32 (603x)
+	                       26 (603x)
+
+  6. "SSN"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         10439
+	Smallest value:        81,349
+	Largest value:         999,993,421
+	Sum:                   9,924,533,366,865
+	Mean:                  496,226,668.343
+	Median:                493,940,462
+	StDev:                 289,962,426.892
+	Most common values:    751,656,458 (7x)
+	                       816,381,312 (6x)
+	                       819,289,726 (6x)
+	                       218,988,370 (6x)
+	                       730,300,827 (6x)
+
+  7. "Occupation"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         15
+	Longest value:         13 characters
+	Most common values:    Lawyer (1414x)
+	                       Architect (1389x)
+	                       Developer (1373x)
+	                       Media_Manager (1365x)
+	                       Entrepreneur (1363x)
+
+  8. "Annual_Income"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         10427
+	Smallest value:        7,005.93
+	Largest value:         179,987.28
+	Sum:                   1,003,648,391.995
+	Mean:                  50,182.42
+	Median:                36,853.935
+	StDev:                 37,913.015
+	Most common values:    32,543.38 (8x)
+	                       22,434.16 (7x)
+	                       31,122.79 (7x)
+	                       65,588.1 (6x)
+	                       51,884.96 (6x)
+
+  9. "Monthly_Inhand_Salary"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         10626
+	Smallest value:        303.645
+	Largest value:         15,167.18
+	Sum:                   83,413,252.881
+	Mean:                  4,170.663
+	Median:                3,075.914
+	StDev:                 3,153.516
+	Most common values:    2,761.566 (7x)
+	                       4,490.747 (6x)
+	                       3,033.636 (6x)
+	                       1,640.201 (6x)
+	                       7,272.27 (6x)
+
+ 10. "Num_Bank_Accounts"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         12
+	Smallest value:        0
+	Largest value:         11
+	Sum:                   107,879
+	Mean:                  5.394
+	Median:                6
+	StDev:                 2.572
+	Most common values:    6 (2693x)
+	                       7 (2647x)
+	                       5 (2545x)
+	                       8 (2505x)
+	                       4 (2488x)
+
+ 11. "Num_Credit_Card"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         12
+	Smallest value:        0
+	Largest value:         11
+	Sum:                   110,914
+	Mean:                  5.546
+	Median:                5
+	StDev:                 2.062
+	Most common values:    5 (3748x)
+	                       7 (3444x)
+	                       6 (3408x)
+	                       4 (2906x)
+	                       3 (2637x)
+
+ 12. "Interest_Rate"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         34
+	Smallest value:        1
+	Largest value:         34
+	Sum:                   291,426
+	Mean:                  14.571
+	Median:                13
+	StDev:                 8.795
+	Most common values:    8 (1033x)
+	                       5 (982x)
+	                       6 (969x)
+	                       12 (964x)
+	                       9 (943x)
+
+ 13. "Num_of_Loan"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         10
+	Smallest value:        0
+	Largest value:         9
+	Sum:                   71,067
+	Mean:                  3.553
+	Median:                3
+	StDev:                 2.452
+	Most common values:    3 (3142x)
+	                       2 (3105x)
+	                       4 (3085x)
+	                       0 (2284x)
+	                       1 (2190x)
+
+ 14. "Type_of_Loan"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5365
+	Longest value:         182 characters
+	Most common values:    No Data (2284x)
+	                       Not Specified (272x)
+	                       Credit-Builder Loan (267x)
+	                       Debt Consolidation Loan (258x)
+	                       Personal Loan (242x)
+
+ 15. "Delay_from_due_date"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         63
+	Smallest value:        0
+	Largest value:         62
+	Sum:                   426,206
+	Mean:                  21.31
+	Median:                18
+	StDev:                 14.847
+	Most common values:    15 (729x)
+	                       14 (672x)
+	                       8 (659x)
+	                       12 (644x)
+	                       7 (634x)
+
+ 16. "Num_of_Delayed_Payment"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         26
+	Smallest value:        0
+	Largest value:         25
+	Sum:                   267,047
+	Mean:                  13.352
+	Median:                14
+	StDev:                 6.272
+	Most common values:    19 (1210x)
+	                       17 (1198x)
+	                       18 (1164x)
+	                       12 (1159x)
+	                       16 (1153x)
+
+ 17. "Changed_Credit_Limit"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2904
+	Smallest value:        0.5
+	Largest value:         29.98
+	Sum:                   209,000.72
+	Mean:                  10.45
+	Median:                9.37
+	StDev:                 6.628
+	Most common values:    7.35 (31x)
+	                       7.22 (30x)
+	                       8.72 (29x)
+	                       8.22 (28x)
+	                       11.5 (28x)
+
+ 18. "Num_Credit_Inquiries"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         18
+	Smallest value:        0
+	Largest value:         17
+	Sum:                   116,460
+	Mean:                  5.823
+	Median:                5
+	StDev:                 3.889
+	Most common values:    4 (2339x)
+	                       3 (1858x)
+	                       6 (1677x)
+	                       7 (1670x)
+	                       2 (1656x)
+
+ 19. "Credit_Mix"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         8 characters
+	Most common values:    Standard (9105x)
+	                       Good (6045x)
+	                       Bad (4850x)
+
+ 20. "Outstanding_Debt"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         10242
+	Smallest value:        0.23
+	Largest value:         4,998.07
+	Sum:                   28,844,673.47
+	Mean:                  1,442.234
+	Median:                1,176.78
+	StDev:                 1,166.005
+	Most common values:    1,454.68 (9x)
+	                       1,426.06 (8x)
+	                       1,151.7 (8x)
+	                       3,626.94 (7x)
+	                       1,377.16 (7x)
+
+ 21. "Credit_Utilization_Ratio"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         20000
+	Smallest value:        20.101
+	Largest value:         49.522
+	Sum:                   645,692.052
+	Mean:                  32.285
+	Median:                32.267
+	StDev:                 5.098
+	Most common values:    22.899 (1x)
+	                       24.586 (1x)
+	                       25.13 (1x)
+	                       27.004 (1x)
+	                       30.911 (1x)
+
+ 22. "Credit_History_Age"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         404
+	Smallest value:        1
+	Largest value:         404
+	Sum:                   4,406,951
+	Mean:                  220.348
+	Median:                219
+	StDev:                 100.163
+	Most common values:    188 (111x)
+	                       191 (110x)
+	                       189 (103x)
+	                       219 (101x)
+	                       214 (100x)
+
+ 23. "Payment_of_Min_Amount"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         3 characters
+	Most common values:    Yes (10488x)
+	                       No (7131x)
+	                       NM (2381x)
+
+ 24. "Total_EMI_per_month"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         9479
+	Smallest value:        0
+	Largest value:         1,779.103
+	Sum:                   2,153,543.519
+	Mean:                  107.677
+	Median:                66.313
+	StDev:                 132.64
+	Most common values:    0 (2205x)
+	                       57.883 (6x)
+	                       290.661 (6x)
+	                       134.643 (6x)
+	                       38.445 (6x)
+
+ 25. "Amount_invested_monthly"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         10233
+	Smallest value:        0
+	Largest value:         434.191
+	Sum:                   1,098,729.158
+	Mean:                  54.936
+	Median:                45.094
+	StDev:                 38.6
+	Most common values:    0 (390x)
+	                       32.419 (7x)
+	                       34.539 (6x)
+	                       65.984 (6x)
+	                       33.667 (6x)
+
+ 26. "Payment_Behaviour"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         32 characters
+	Most common values:    Low_spent_Small_value_payments (5799x)
+	                       High_spent_Medium_value_payments (3979x)
+	                       Low_spent_Medium_value_payments (2886x)
+	                       High_spent_Large_value_payments (2863x)
+	                       High_spent_Small_value_payments (2332x)
+
+ 27. "Monthly_Balance"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         19921
+	Smallest value:        0.008
+	Largest value:         1,181.373
+	Sum:                   7,813,402.684
+	Mean:                  390.67
+	Median:                332.631
+	StDev:                 199.685
+	Most common values:    262.869 (4x)
+	                       224.065 (3x)
+	                       19.777 (3x)
+	                       306.827 (3x)
+	                       236.242 (3x)
+
+Row count: 20000
